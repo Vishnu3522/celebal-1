@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/celebal-1/static/css/main.35f54c53.css",
+    "main.js": "/celebal-1/static/js/main.1f725463.js",
+    "static/js/787.142da1d4.chunk.js": "/celebal-1/static/js/787.142da1d4.chunk.js",
+    "index.html": "/celebal-1/index.html",
+    "main.35f54c53.css.map": "/celebal-1/static/css/main.35f54c53.css.map",
+    "main.1f725463.js.map": "/celebal-1/static/js/main.1f725463.js.map",
+    "787.142da1d4.chunk.js.map": "/celebal-1/static/js/787.142da1d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35f54c53.css",
+    "static/js/main.1f725463.js"
+  ]
+}
